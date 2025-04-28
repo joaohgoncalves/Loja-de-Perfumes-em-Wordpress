@@ -66,7 +66,3 @@ Este projeto está licenciado sob a **Licença GPL**. Você pode usar, modificar
 
 ---
 
-## **Contato**
-
-Se você tiver alguma dúvida ou sugestão, entre em contato através do e-mail: **contato@lojadeperfumes.com.br**.
-
